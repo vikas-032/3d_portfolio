@@ -9,6 +9,14 @@ import Island from "../models/Island";
       </div> */
 }
 const Home = () => {
+const adjustIslandForScreenSize=()=>{
+  let screenScale , screenPosition;
+  
+}
+
+
+
+
   return (
     <section className="w-full h-screen relative">
       <Canvas
